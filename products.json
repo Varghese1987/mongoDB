@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5ed7dc7bce188b042247950b"},"producName":"product-1","price":200.0,"stockAvailable":true}
+{"_id":{"$oid":"5ed7dc7bce188b042247950c"},"producName":"product-2","price":500.0,"stockAvailable":true}
+{"_id":{"$oid":"5ed7dc7bce188b042247950d"},"producName":"product-3","price":1000.0,"stockAvailable":true}
+{"_id":{"$oid":"5ed7dc7bce188b042247950e"},"producName":"product-4","price":2000.0,"stockAvailable":false}
+{"_id":{"$oid":"5ed7dc7bce188b042247950f"},"producName":"product-5","price":2000.0,"stockAvailable":true}

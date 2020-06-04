@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ed84c43074aaa7461e7940e"},"userName":"user-1","age":18.0,"isActive":true}
+{"_id":{"$oid":"5ed84c43074aaa7461e7940f"},"userName":"user-2","age":16.0,"isActive":true}
+{"_id":{"$oid":"5ed84c43074aaa7461e79410"},"userName":"user-3","age":21.0,"isActive":true}
+{"_id":{"$oid":"5ed84c43074aaa7461e79411"},"userName":"user-4","age":27.0,"isActive":false}
